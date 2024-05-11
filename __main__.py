@@ -33,9 +33,9 @@ def main():
     git_branch()
 
     # Check if origin is already configured
-    remote_url = input("Enter remote URL: ")
     if not subprocess.run(["git", "remote", "-v"], capture_output=True).stdout:
-        git_remote_add(remote_url)
+        remote_url = input("Enter remote URL: ")
+        git_remote_add(remote_rl)
     
     git_push()
     
