@@ -2,7 +2,12 @@
 
 This command-line tool automates common Git commands to simplify your workflow.
 <br/>
-I just wanted to add a globally available command to do commits to my small projects
+I just wanted to add a globally available command to do commits to my small projects.
+<br/>
+<br/>
+Keep in mind the script is made to execute from the directory that you want to do the commits.
+<br/>
+For example the script does "git add ." to add the changes on the whole project. :)
 
 ## Features
 
