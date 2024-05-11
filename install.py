@@ -1,5 +1,3 @@
-import os
-import shutil
 
 def make_script_executable(script_path):
         with open(script_path, 'r+') as f:
