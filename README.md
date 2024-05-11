@@ -1,10 +1,11 @@
 # Git Automation CLI
 
 This command-line tool automates common Git commands to simplify your workflow.
+I just wanted a my own custom script for my small projects :).
 
 ## Features
 
-- Initializes Git repository if not already initialized.
+- Initializes Git repository.
 - Automatically adds files, commits changes, sets up the main branch, adds remote origin, and pushes changes.
 - Asks for a commit message to provide context for the changes.
 
