@@ -30,10 +30,11 @@ def main():
     message = input("Enter commit message: ")
     git_add()
     git_commit(message)
-    git_branch()
+    
 
     # Check if origin is already configured
     if not subprocess.run(["git", "remote", "-v"], capture_output=True).stdout:
+        git_branch()
         remote_url = input("Enter remote URL: ")
         git_remote_add(remote_rl)
     
