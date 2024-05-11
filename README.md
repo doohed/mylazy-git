@@ -13,7 +13,7 @@ This command-line tool automates common Git commands to simplify your workflow.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/mylazy-git.git
+   git clone https://github.com/doohed/mylazy-git.git
    ```
 
 2. Navigate to the project directory:
@@ -51,7 +51,7 @@ Follow the prompts to provide a commit message and, if required, the remote URL.
 
 ## Contributing
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/yourusername/mylazy-git/issues) or [create a pull request](https://github.com/yourusername/mylazy-git/pulls).
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/doohed/mylazy-git/issues) or [create a pull request](https://github.com/doohed/mylazy-git/pulls).
 
 ## License
 
