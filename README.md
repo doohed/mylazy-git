@@ -1,10 +1,8 @@
-Sure, here's a simple README template you can use for your GitHub project:
-
----
-
 # Git Automation CLI
 
 This command-line tool automates common Git commands to simplify your workflow.
+<br/>
+I just wanted to add a globally available command to do commits to my small projects
 
 ## Features
 
@@ -43,11 +41,7 @@ mylazy-git.py
 
 ## Contributing
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/yourusername/git-automation-cli/issues) or [create a pull request](https://github.com/yourusername/git-automation-cli/pulls).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/yourusername/git-automation-cli/issues) or [create a pull request](https://github.com/doohed/mylazy-git/pulls).
 
 ---
 
