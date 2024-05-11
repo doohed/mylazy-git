@@ -19,20 +19,21 @@ This command-line tool automates common Git commands to simplify your workflow.
 2. Navigate to the project directory:
 
    ```bash
-   cd git-automation-cli
+   cd mylazy-git
    ```
 
 3. Make the script executable:
 
    ```bash
-   chmod +x git_automation.py
+   chmod +x mylazy-git.py
    ```
 
 4. Move the script to a directory in your PATH (e.g., ~/bin or ~/.local/bin):
 
-   ```bash
-   mv git_automation.py ~/bin/git_automation
-   ```
+   ````bash
+   mv mylazy-git.py ~/bin/mylazy-git   ```
+
+   ````
 
 5. Ensure the directory is in your PATH by adding the following line to your `~/.bashrc` or `~/.bash_profile`:
    ```bash
@@ -44,7 +45,7 @@ This command-line tool automates common Git commands to simplify your workflow.
 To use the Git Automation CLI, simply run the `git_automation` command in your terminal:
 
 ```bash
-git_automation
+mylazy-git
 ```
 
 Follow the prompts to provide a commit message and, if required, the remote URL.
