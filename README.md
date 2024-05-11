@@ -12,6 +12,27 @@ This command-line tool automates common Git commands to simplify your workflow.
 - Automatically adds files, commits changes, sets up the main branch, adds remote origin, and pushes changes.
 - Asks for a commit message to provide context for the changes.
 
+## Installation
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/doohed/mylazy-git
+
+   ```
+
+2. Move to the dir
+
+   ```bash
+   cd mylazy-git
+
+   ```
+
+3. Execute the installer script
+   ```bash
+   bash install.sh
+   ```
+
 ## Contributing
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/yourusername/git-automation-cli/issues) or [create a pull request](https://github.com/yourusername/git-automation-cli/pulls).
