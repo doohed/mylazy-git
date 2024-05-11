@@ -22,22 +22,10 @@ This command-line tool automates common Git commands to simplify your workflow.
    cd mylazy-git
    ```
 
-3. Make the script executable:
+3. Execute the Installation bash script:
 
    ```bash
-   chmod +x mylazy-git.py
-   ```
-
-4. Move the script to a directory in your PATH (e.g., ~/bin or ~/.local/bin):
-
-   ````bash
-   mv mylazy-git.py ~/bin/mylazy-git   ```
-
-   ````
-
-5. Ensure the directory is in your PATH by adding the following line to your `~/.bashrc` or `~/.bash_profile`:
-   ```bash
-   export PATH="$HOME/bin:$PATH"
+   install.sh
    ```
 
 ## Usage
