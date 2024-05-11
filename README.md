@@ -33,6 +33,14 @@ This command-line tool automates common Git commands to simplify your workflow.
    bash install.sh
    ```
 
+## Usage
+
+Now you can use the script globally from any terminal
+
+```bash
+mylazy-git.py
+```
+
 ## Contributing
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/yourusername/git-automation-cli/issues) or [create a pull request](https://github.com/yourusername/git-automation-cli/pulls).
